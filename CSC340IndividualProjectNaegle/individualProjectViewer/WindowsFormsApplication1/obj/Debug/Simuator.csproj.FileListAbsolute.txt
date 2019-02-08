@@ -1,0 +1,10 @@
+C:\Users\alexander_naegle\Desktop\groupProject\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\alexander_naegle\Desktop\groupProject\WindowsFormsApplication1\obj\Debug\individualProject.Lab430.resources
+C:\Users\alexander_naegle\Desktop\groupProject\WindowsFormsApplication1\obj\Debug\individualProject.lab445.resources
+C:\Users\alexander_naegle\Desktop\groupProject\WindowsFormsApplication1\obj\Debug\individualProject.lab449.resources
+C:\Users\alexander_naegle\Desktop\groupProject\WindowsFormsApplication1\obj\Debug\individualProject.lab452.resources
+C:\Users\alexander_naegle\Desktop\groupProject\WindowsFormsApplication1\obj\Debug\individualProject.lab455.resources
+C:\Users\alexander_naegle\Desktop\groupProject\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\alexander_naegle\Desktop\groupProject\WindowsFormsApplication1\obj\Debug\individualProject.select.resources
+C:\Users\alexander_naegle\Desktop\groupProject\WindowsFormsApplication1\obj\Debug\Simuator.csproj.GenerateResource.Cache
+C:\Users\alexander_naegle\Desktop\groupProject\WindowsFormsApplication1\obj\Debug\individualProject.Simulation.resources

@@ -1,0 +1,3 @@
+c:\users\ekustudent\documents\visual studio 2015\Projects\individualProject\individualProject\bin\Debug\individualProject.exe.config
+C:\Users\alexander_naegle\Desktop\FinalGroupReport\individualProject\individualProject\bin\Debug\individualProject.exe.config
+C:\Users\alexander_naegle\Desktop\groupProject\individualProject\bin\Debug\individualProject.exe.config
